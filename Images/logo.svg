@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.53117mm"
+   height="39.580013mm"
+   viewBox="0 0 204.53117 39.580013"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64765011"
+     inkscape:cx="206.90184"
+     inkscape:cy="476.33745"
+     inkscape:window-width="1468"
+     inkscape:window-height="944"
+     inkscape:window-x="448"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient19561"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop19559" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2694">
+      <circle
+         style="fill:#f9f9f9;stroke-width:0.255637"
+         id="circle2696"
+         cx="90.378616"
+         cy="418.57791"
+         r="115" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19561"
+       id="linearGradient22503"
+       gradientUnits="userSpaceOnUse"
+       x1="353.9201"
+       y1="260.30124"
+       x2="558.18671"
+       y2="260.30124"
+       gradientTransform="translate(-353.78783,-240.51124)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter24199"
+       x="-0.00071918963"
+       y="-0.0037366098"
+       width="1.0014384"
+       height="1.0074732">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0060895506"
+         id="feGaussianBlur24201" />
+    </filter>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-weight:bold;font-size:50.8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.264583"
+     x="-120.40514"
+     y="54.499016"
+     id="text1764"><tspan
+       sodipodi:role="line"
+       id="tspan1762"
+       style="stroke-width:0.264583"
+       x="-120.40514"
+       y="54.499016" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-weight:bold;font-size:50.8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';mix-blend-mode:normal;stroke:url(#linearGradient22503);stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter24199)"
+     x="-0.93431008"
+     y="38.728386"
+     id="text5223"><tspan
+       sodipodi:role="line"
+       id="tspan5221"
+       style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient22503);stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-0.93431008"
+       y="38.728386"><tspan
+   style="fill:#000000;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan13875">K</tspan>ezeah</tspan></text>
+</svg>
